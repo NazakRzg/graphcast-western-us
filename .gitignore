@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large weather datasets
+data/
+*.nc
+*.grib
+*.grib2
+*.zarr/
+
+# Trained models and results
+checkpoints/
+outputs/
+*.pt
+*.pth
+*.ckpt
+
+# Python and notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Experiment tracking
+wandb/
