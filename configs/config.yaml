@@ -1,0 +1,15 @@
+project:
+  name: graphcast-western-us
+  seed: 42
+
+data:
+  timestep_hours: 6
+  variables: [tp, t2m, u10, v10, z500]
+
+model:
+  hidden_size: 128
+  message_passing_layers: 4
+
+training:
+  epochs: 50
+  learning_rate: 0.0001
