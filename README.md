@@ -1,6 +1,6 @@
 # GraphCast for the Western United States
 
-This project develops a small graph neural network for regional weather forecasting over the western United States. It is inspired by GraphCast, but uses a smaller dataset and architecture suitable for research experiments.
+This project is inspired by [GraphCast](https://doi.org/10.1126/science.adi2336), a graph neural network developed for global medium-range weather forecasting (Lam et al., 2023).
 
 ## Objectives
 
