@@ -29,3 +29,15 @@ Python, PyTorch, PyTorch Geometric, Xarray, Dask, NetCDF, Zarr, Cartopy and Slur
 ## Project status
 
 Project setup and data preparation.
+
+
+@article{lam2023learning,
+  title={Learning skillful medium-range global weather forecasting},
+  author={Lam, Remi and Sanchez-Gonzalez, Alvaro and Willson, Matthew and Wirnsberger, Peter and Fortunato, Meire and Alet, Ferran and Ravuri, Suman and Ewalds, Timo and Eaton-Rosen, Zach and Hu, Weihua and others},
+  journal={Science},
+  volume={382},
+  number={6677},
+  pages={1416--1421},
+  year={2023},
+  publisher={American Association for the Advancement of Science}
+}
