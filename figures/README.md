@@ -1,1 +1,3 @@
-This folder contains project figures.
+# Figures
+
+This folder contains selected forecast maps and evaluation figures.
